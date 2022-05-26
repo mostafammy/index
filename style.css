@@ -317,6 +317,7 @@ section{
     .main div{
         margin-top: 215px;
     }
+    footer .social-icons { display: none}
 
     section.main {
         background-size: cover;
