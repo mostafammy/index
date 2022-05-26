@@ -236,13 +236,13 @@ section{
 .footer{
     background-color: #000016;
     color: #fff;
-    padding: 1.6em;
+    padding: 1.4em;
     display: flex;
     justify-content: space-between;
 }
 
 .footer-title{
-    font-size: 1.1em;
+    font-size: 1em;
     font-weight: 600;
 }
 
@@ -251,8 +251,8 @@ section{
 }
 
 .footer .social-icons a {
-    font-size: 1em;
-    padding: 0 8px 0 0;
+    font-size: 0.8em;
+    padding: 0 5px 0 0;
 }
 
 @media (max-width : 1023px) {
