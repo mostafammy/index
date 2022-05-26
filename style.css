@@ -251,8 +251,8 @@ section{
 }
 
 .footer .social-icons a {
-    font-size: 1.1em;
-    padding: 0 12px 0 0;
+    font-size: 1em;
+    padding: 0 8px 0 0;
 }
 
 @media (max-width : 1023px) {
